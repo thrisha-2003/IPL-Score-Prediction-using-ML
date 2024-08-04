@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+joblib
+scikit-learn
+pandas
+seaborn
+matplotlib
+numpy
